@@ -1,0 +1,33 @@
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+h1,
+h2,
+h3 {
+  font-family: sans-serif;
+  margin-top: 1.5em;
+}
+h1 {
+  font-size: 32px;
+}
+table {
+  border: 1px double black;
+  border-spacing: 0.2em;
+}
+
+td {
+  border: 1px solid black;
+  border-spacing: 0.2em;
+}
+th {
+  border: 1px solid black;
+  border-spacing: 0.2em;
+}
+figcaption {
+  font-style: italic;
+}
+figure {
+  float: right;
+  clear: right;
+}
